@@ -44,6 +44,9 @@ SUBDIRS = \
 		pgrowlocks	\
 		pgstattuple	\
 		pgxc_clean	\
+		pgxc_monitor	\
+		gtm_util	\
+		uuid-ossp	\      
 		pg_xlogdump	\
 		postgres_fdw	\
 		seg		\
