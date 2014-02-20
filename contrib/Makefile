@@ -29,16 +29,16 @@ SUBDIRS = \
 		oid2name	\
 		pageinspect	\
 		passwordcheck	\
-		pg_archivecleanup \
+		pg_archivecleanup	\
 		pg_buffercache	\
 		pg_freespacemap \
 		pg_standby	\
-		pg_stat_statements \
+		pg_stat_statements	\
 		pg_test_fsync	\
 		pg_test_timing	\
 		pg_trgm		\
 		pg_upgrade	\
-		pg_upgrade_support \
+		pg_upgrade_support	\
 		pgbench		\
 		pgcrypto	\
 		pgrowlocks	\
@@ -46,7 +46,7 @@ SUBDIRS = \
 		pgxc_clean	\
 		pgxc_monitor	\
 		gtm_util	\
-		uuid-ossp	\      
+		uuid-ossp	\
 		pg_xlogdump	\
 		postgres_fdw	\
 		seg		\
